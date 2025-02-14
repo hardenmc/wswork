@@ -1,0 +1,45 @@
+:root {
+  --black ;
+  --white ;
+  --foreground ;
+  --primary ;
+  --primary-foreground ;
+  --secondary ;
+  --secondary-foreground ;
+  --card ;
+  --card-foreground ;
+  --popover ;
+  --popover-foreground ;
+  --tooltip ;
+  --tooltip-foreground ;
+  --muted ;
+  --muted-foreground ;
+  --accent ;
+  --accent-foreground ;
+  --info ;
+  --info-foreground ;
+  --success ;
+  --success-foreground ;
+  --warning ;
+  --warning-foreground ;
+  --error ;
+  --error-foreground ;
+  --destructive ;
+  --destructive-foreground ;
+  --border ;
+  --input ;
+  --ring ;
+  --radius ;
+  
+  --background ;
+  --qbusiness-webexperience-title-color ;
+  --qbusiness-webexperience-font-typeface ;
+  --qbusiness-webexperience-chat-user-background-color ;
+  --qbusiness-webexperience-chat-user-text-color ;
+  --qbusiness-webexperience-chat-agent-background-color ;
+  --qbusiness-webexperience-chat-agent-text-color ;
+  --qbusiness-webexperience-chat-logo-visibility ;
+  --qbusiness-webexperience-logo-url ;
+  --qbusiness-webexperience-font-url ;
+  --qbusiness-webexperience-favicon-url ;    
+}
